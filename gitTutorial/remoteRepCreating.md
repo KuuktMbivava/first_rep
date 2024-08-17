@@ -1,10 +1,10 @@
 ## Создание удаленного репозитория
 
 1. Жмем на кнопку 
-<img src = "./gitTutorial/assets/button1.png" width = "130">
+<img src = "./assets/button1.png" width = "130">
 
 2. Находим и копируем URL репозитория 
-<img src = "./gitTutorial/assets/screen1.png" width = "500">
+<img src = "./assets/screen1.png" width = "500">
 
 
 [Назад в меню](./mainPage.md)
