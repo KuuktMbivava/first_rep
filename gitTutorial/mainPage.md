@@ -6,7 +6,7 @@
 
 1. [*Регистрация на GitHub*](./gitHubReg.md)
 2. [*Установка Git*](./gitInstall.md)
-3. [*Создание удаленного репозитория*](./remoteRepCreating)
+3. [*Создание удаленного репозитория*](./remoteRepCreating.md)
 4. [*Создание локального репозитория*](./localRepCreating.md)
 5. [*Базовые команды*](./baseCommands.md)
 

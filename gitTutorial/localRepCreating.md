@@ -15,4 +15,4 @@ git clone URL
 
 [Предыдущий шаг](./remoteRepCreating.md)
 
-[Следующий шаг]()
+[Следующий шаг](./baseCommands.md)
